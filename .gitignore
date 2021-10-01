@@ -1,0 +1,4 @@
+##ignore python complied files
+*.py.swn
+*.py.swo
+*.py.swp
