@@ -14,7 +14,7 @@ except:
 
 
 if user_age > 18:
-    print(f"{user_name}, you are an adault ({user_age})")
+    print(f"{user_name}, you are an adault")
 else:
-    print(f"{user_name}, you are below 18 years ({user_age})")
+    print(f"{user_name}, you are below 18 years")
 
