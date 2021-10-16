@@ -7,7 +7,10 @@
 ### Input from User 
 ###### type casting
 ### Conditional Statments (if, switch, and try)
-###### input validation
+###### python condition functions (isdigit() , typr())
+##### input validation
 ###### try::except::else::finally
-
+######## isdigit() only accepts positive integers
+######## type() check the type of variable stored (int, float, string)
+#
 
