@@ -10,6 +10,7 @@ user_name = input("Please enter your name : ")
 try:   
     user_age = int(input("Please enter your age: "))
 except:
+    print("Input is not a number, Dedault Age 0 will be used!!!")
     user_age = DEFAULT_VALUE
 
 
