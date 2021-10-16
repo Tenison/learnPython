@@ -3,11 +3,11 @@
 ## Topics Covered so far:
 ### Variables and Print
 ### functions
-Scoping (local and global)
+###### Scoping (local and global)
 ### Input from User 
-type casting
+###### type casting
 ### Conditional Statments (if, switch, and try)
-input validation
-try::except::else::finally
+###### input validation
+###### try::except::else::finally
 
 
