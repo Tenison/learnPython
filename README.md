@@ -5,7 +5,7 @@
 ### functions
 ##### Scoping (local and global)
 ### Input from User 
-##### type casting
+##### type casting [int(),float(),str()]
 ### Conditional Statments (if, switch, and try)
 ##### input validation
 ##### try::except::else::finally
