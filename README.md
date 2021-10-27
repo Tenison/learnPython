@@ -4,10 +4,10 @@
 ## Variables and Print
 
 <ul>
-	<li>Integer</li>
-	<li>Float</li>
-	<li>String</li>
-	<li>Boolean(true/false)</li>
+	<li>Integer (98)</li>
+	<li>Float (9.99)</li>
+	<li>String ("Hello world")</li>
+	<li>Boolean (True/False)</li>
 	<li>list</li>
 </ul>
 
