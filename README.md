@@ -1,7 +1,14 @@
 # learnPython
 
 ## Topics Covered so far:
-### Variables and Print
+## Variables and Print
+<ul>
+	<li>Integer</li>
+	<li>Float</li>
+	<li>String</li>
+	<li>Boolean(true/false)</li>
+	<li>list</li>
+</ul>
 ### functions
 ##### Scoping (local and global)
 ### Input from User 
@@ -12,5 +19,16 @@
 ##### python condition functions (isdigit() , typr()) :->
 ###### isdigit() only accepts positive integers
 ###### type() check the type of variable stored (int, float, string)
+##Loops
+<ul>
+	<li>while loop</li>
+</ul>
+**Example**
+\\\python
+	while user_name != "exit":
+\\\
 
+\\\python 
+	while number != 5:
+\\\
 
