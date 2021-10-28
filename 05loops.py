@@ -2,7 +2,7 @@
 ## 01) while loop example 
 ## 02) for loop example 
 
-###while example one 
+###while examples below 
 def printNumbers () :
     count = 0
     while(count <= 10) :
@@ -37,5 +37,19 @@ def average ():
 
 
 ##Run the program here
-average()
+##average()
+
+
+##
+##For loop examples below
+##
+
+def printValues () :
+    for values in range(5) :
+        print(f"the number is {values} \n")
+
+
+##Run  the program here
+printValues()
+
 
