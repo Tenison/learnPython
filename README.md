@@ -23,7 +23,7 @@
 ###### type() check the type of variable stored (int, float, string)
 ## Loops
 <ul>
-	<li>while loop</li>
+	<li><b>While loops</b></li>
 </ul>
 
 __Examples__
@@ -36,7 +36,7 @@ __Examples__
 	while number != 5:
 ```
 <ul>
-	<li>for loop</li>
+	<li><b>For loops<b/></li>
 </ul>
 
 __Examples__
