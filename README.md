@@ -2,13 +2,15 @@
 
 ## Topics Covered so far:
 
-<ul>
+<ol>
 	<li><b>Variables and Print</b></li>
 	<li><b>Functions</b></li>
 	<li><b>Input from User</b></li>
 	<li><b>Conditional Statments</b></li>
 	<li><b>Loops</b></li>
-</ul>
+</ol>
+
+##
 
 ## Variables and Print
 
