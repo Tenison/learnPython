@@ -50,7 +50,7 @@ __Examples__
 
 __Examples__
 
-* range function provides list of numbers to the number specified ( From __0__ to __n-1__ )
+* range function provides a counter or list of numbers ( From __0__ to __n-1__ )
 
 ```python
 	for count in range(5) :
