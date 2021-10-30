@@ -26,7 +26,7 @@
 	<li>while loop</li>
 </ul>
 
-__Example__
+__Examples__
 
 ```python
 	while user_name != "exit":
@@ -35,4 +35,32 @@ __Example__
 ```python 
 	while number != 5:
 ```
+<ul>
+	<li>for loop</li>
+</ul>
+
+__Examples__
+
+* range function provides list of numbers to the number specified
+
+```python
+	for count in range(5) :
+		print(count)
+```
+* range c=function also have multiple input (start_number, end_number, interval)
+
+```python
+	for count in range(10,20,2) :
+		print(count)
+```
+
+* looping through a list 
+
+```python
+	item_list = [2,3,55,5,44,2343,54,576]
+	
+	print(len(item_list)) ## provides the number of items in a list. Example above :- output : n-1
+
+	for value in item_list :
+		print(item_list);
 

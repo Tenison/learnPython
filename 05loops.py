@@ -49,7 +49,15 @@ def printValues () :
         print(f"the number is {values} \n")
 
 
-##Run  the program here
-printValues()
+##Run the program here
+##printValues()
 
+def printList () :
+    some_list = [12,13,15,16,20,23,34,44,45,67,77,89,99]
+
+    for value in range(len(some_list)) :
+        print(value)
+
+##Run the program here
+printList()
 
