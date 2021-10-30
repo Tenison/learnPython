@@ -36,7 +36,7 @@ __Examples__
 	while number != 5:
 ```
 <ul>
-	<li><b>For loops<b/></li>
+	<li><b>For loops</b></li>
 </ul>
 
 __Examples__
