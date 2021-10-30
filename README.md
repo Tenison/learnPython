@@ -50,13 +50,13 @@ __Examples__
 
 __Examples__
 
-* range function provides list of numbers to the number specified ( From _0_ to _n-1_ )
+* range function provides list of numbers to the number specified ( From __0__ to __n-1__ )
 
 ```python
 	for count in range(5) :
 		print(count)
 ```
-* range function can also have multiple inputs (start_number, end_number, interval)
+* range function can also have multiple inputs (__start_number__, __end_number__, __interval__)
 
 ```python
 	for count in range(10,20,2) :
@@ -72,7 +72,7 @@ __Examples__
 		print(value);
 ```
 
-* Printing the index of each member in the list, using _len_ and _range_ which starts from zero(0) 
+* Printing the index of each member in the list, using __len__ and __range__ which starts from zero(0) 
 
 ```python
 	item_list = [2,3,55,5,44,2343,54,576]
