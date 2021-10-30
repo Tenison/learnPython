@@ -4,10 +4,10 @@
 ## Variables and Print
 
 <ul>
-	<li>Integer (98)</li>
-	<li>Float (9.99)</li>
-	<li>String ("Hello world")</li>
-	<li>Boolean (True/False)</li>
+	<li>Integer [98]</li>
+	<li>Float [9.99]</li>
+	<li>String ['Hello world']</li>
+	<li>Boolean [True/False]</li>
 	<li>list</li>
 </ul>
 
@@ -31,24 +31,22 @@ __Lists__
 ###### isdigit() only accepts positive integers
 ###### type() check the type of variable stored (int, float, string)
 ## Loops
-<ul>
-	<li><b>While loops</b></li>
-</ul>
 
-__Examples__
+__While loops__
+
+* Perform the loop till __user_name__ is equal to __exit__
 
 ```python
 	while user_name != "exit":
 ```
 
+* Perform the loop till __number__ is equal to __5__
+
 ```python 
 	while number != 5:
 ```
-<ul>
-	<li><b>For loops</b></li>
-</ul>
 
-__Examples__
+__For loops__
 
 * range function provides a counter or list of numbers ( From __0__ to __n-1__ )
 
