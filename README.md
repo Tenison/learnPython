@@ -11,6 +11,15 @@
 	<li>list</li>
 </ul>
 
+__Lists__
+
+```python
+	item_list = [2,3,55,5,44,2343,54,576]
+	
+	## below provides the lenght of the list. Example :- output : n-1
+	print(len(item_list))
+```
+
 ### functions
 ##### Scoping (local and global)
 ### Input from User 
@@ -47,7 +56,7 @@ __Examples__
 	for count in range(5) :
 		print(count)
 ```
-* range c=function also have multiple input (start_number, end_number, interval)
+* range function can also have multiple inputs (start_number, end_number, interval)
 
 ```python
 	for count in range(10,20,2) :
@@ -58,9 +67,16 @@ __Examples__
 
 ```python
 	item_list = [2,3,55,5,44,2343,54,576]
-	
-	print(len(item_list)) ## provides the number of items in a list. Example above :- output : n-1
 
 	for value in item_list :
-		print(item_list);
+		print(value);
+```
 
+* Printing the index of each member in the list, using _len_ and _range_ which starts from zero(0) 
+
+```python
+	item_list = [2,3,55,5,44,2343,54,576]
+
+	for value in range(len(item_list)) :
+		print(value);
+```
