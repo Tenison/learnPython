@@ -1,6 +1,6 @@
 # learnPython
 
-## Topics Covered so far:
+### Topics Covered so far:
 
 <ol>
 	<li><b>Variables and Print</b></li>
