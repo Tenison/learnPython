@@ -49,15 +49,26 @@ def printValues () :
 
 ## --- For example Two 
 
-def printList () :
+def printList ():
     some_list = [12,13,15,16,20,23,34,44,45,67,77,89,99]
 
-    for value in range(len(some_list)) :
+    for value in some_list:
         print(value)
 
 ##printList()
 
+
 ## --- For example Three
+
+def printListNumber ():
+    some_list = [12,13,15,16,20,23,34,44,45,67,77,89,99]
+
+    for value in range(len(some_list)):
+        print(value)
+
+##printListNumber()
+
+
 
 
 
