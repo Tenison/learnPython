@@ -1,20 +1,20 @@
-##while and for loops
-## 01) while loop example 
-## 02) for loop example 
+## WHILE and O=FOR LOOPS
+## -- while loop example 
+## -- for loop example 
 
-###while examples below 
-def printNumbers () :
+### -- While examples below
+
+def printNumbers ():
     count = 0
     while(count <= 10) :
         print(f"the number is {count} \n")
         count += 1
 
-##Run the program here
 ##printNumbers()
 
 
 
-##find average of user inputs
+## -- find average of user inputs
 def average ():
     total = 0
     count = 0
@@ -23,34 +23,31 @@ def average ():
         
         if(input_value == "calc"):
             break
-        else :
+        else:
             try:
                 total += int(input_value)
                 count += 1
-            except :
+            except:
                 print("Not a valid input")
                 continue
-    if count == 0 :
-        count += 1 ##so that we don't get undefined in  our calculation
+    if count == 0:
+        count += 1 ## so that we don't get undefined in  our calculation
     print(count)
     print(f"The average of the values entered are {total/count}")
 
-
-##Run the program here
 ##average()
 
 
-##
-##For loop examples below
-##
+## -- For loop examples below
 
 def printValues () :
     for values in range(5) :
         print(f"the number is {values} \n")
 
-
-##Run the program here
 ##printValues()
+
+
+## --- For example Two 
 
 def printList () :
     some_list = [12,13,15,16,20,23,34,44,45,67,77,89,99]
@@ -58,6 +55,9 @@ def printList () :
     for value in range(len(some_list)) :
         print(value)
 
-##Run the program here
-printList()
+##printList()
+
+## --- For example Three
+
+
 
