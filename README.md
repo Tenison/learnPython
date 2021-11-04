@@ -32,7 +32,7 @@ __Lists__
 	print(len(item_list))
 ```
 
-## functions
+## Functions
 
 * Use __def__ to declare a function
 
