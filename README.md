@@ -42,7 +42,7 @@ __Lists__
 		print(f"We can print {Parameters} here!!!");
 ```
 
-* Function can return values or have side effect
+* Function can __return values__ or have __side effect__
 
 __Side Effect__
 
