@@ -8,6 +8,7 @@
 	<li><b>Input from User</b></li>
 	<li><b>Conditional Statments</b></li>
 	<li><b>Loops</b></li>
+	<li><b>Study Project - numberClassification</b></li>
 </ol>
 
 ##
@@ -31,7 +32,36 @@ __Lists__
 	print(len(item_list))
 ```
 
-### functions
+## functions
+
+* Use __def__ to declare a function
+
+```python
+	def example_function (Parameters):
+		##Perform action
+		print(f"We can print {Parameters} here!!!");
+```
+
+* Function can return values or have side effect
+
+__Side Effect__
+
+```python
+	def example_function (Parameters):
+		##Side effect below
+		print(f"We can print {Parameters} here!!!");
+```
+
+__Return Value__
+
+```python
+	def example_function (Parameters):
+		return Parameter
+	
+	## return value from the function is stored in a variable
+	hold_results = example_function(3)
+```
+
 ##### Scoping (local and global)
 ### Input from User 
 ##### type casting [int(),float(),str()]
