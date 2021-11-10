@@ -9,6 +9,7 @@
 	<li><b>Conditional Statments</b></li>
 	<li><b>Loops</b></li>
 	<li><b>Study Project - numberClassification</b></li>
+	<li><b>Data Structures</b></li>
 </ol>
 
 ##
@@ -23,14 +24,6 @@
 	<li>list</li>
 </ul>
 
-__Lists__
-
-```python
-	item_list = [2,3,55,5,44,2343,54,576]
-	
-	## below provides the lenght of the list. Example :- output : n-1
-	print(len(item_list))
-```
 
 ## Functions
 
@@ -119,3 +112,13 @@ __For loops__
 	for value in range(len(item_list)) :
 		print(value);
 ```
+
+__Lists__
+
+```python
+	item_list = [2,3,55,5,44,2343,54,576]
+	
+	## below provides the lenght of the list. Example :- output : n-1
+	print(len(item_list))
+```
+
