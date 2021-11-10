@@ -21,7 +21,6 @@
 	<li>Float [9.99]</li>
 	<li>String ['Hello world']</li>
 	<li>Boolean [True/False]</li>
-	<li>list</li>
 </ul>
 
 
@@ -105,13 +104,15 @@ __For loops__
 ```
 
 * Printing the index of each member in the list, using __len__ and __range__ which starts from zero(0) 
-
+\'
 ```python
 	item_list = [2,3,55,5,44,2343,54,576]
 
 	for value in range(len(item_list)) :
 		print(value);
 ```
+
+## Data Structures
 
 __Lists__
 
