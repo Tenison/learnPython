@@ -23,6 +23,29 @@
 	<li>Boolean [True/False]</li>
 </ul>
 
+* ___Example :___
+__Strings__
+
+```python
+
+	'These allow "double quoting" without "escape" characters.'
+
+	"These allow embedded 'single quoting', so you don't have to use an 'escape' character".
+
+	'If needed, a \'slash\' can be used as an escape character within a string when switching quote styles won\'t work.'
+```
+
+__Multi-line strings are declared with `'''` or `"""`.__
+
+
+```python
+	'''Three single quotes or "double quotes" in a row allow for multi-line string literals.
+  	Line break characters, tabs and other whitespace are fully supported.
+
+  	You\'ll most often encounter these as "doc strings" or "doc tests" written just below the first line of a function or class definition.
+    	They\'re often used with auto documentation ✍ tools.
+    	'''
+```
 
 ## Functions
 
